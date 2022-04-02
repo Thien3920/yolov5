@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bc7d633-c8a2-42ab-af9e-b855f2dde575" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug-report.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature-request.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/question.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/dependabot.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci-testing.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/codeql-analysis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/greetings.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/rebase.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/stale.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pre-commit-config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Argoverse.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/GlobalWheat2020.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Objects365.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/SKU-110K.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/VOC.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/VisDrone.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coco128.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hyps/hyp.Objects365.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hyps/hyp.VOC.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hyps/hyp.scratch-high.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hyps/hyp.scratch-low.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hyps/hyp.scratch-med.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/bus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/zidane.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/scripts/download_weights.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/scripts/get_coco.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/scripts/get_coco128.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/xView.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/export.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hubconf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/aws/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/aws/mime.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/aws/resume.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/aws/userdata.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/flask_rest_api/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/flask_rest_api/example_request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/flask_rest_api/restapi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/google_app_engine/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/google_app_engine/additional_requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/google_app_engine/app.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/loggers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/loggers/wandb/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/loggers/wandb/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/loggers/wandb/log_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/loggers/wandb/sweep.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/loggers/wandb/sweep.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/loggers/wandb/wandb_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/val.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27ByjsujICykHKiGINGfxCmvVxd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rs/content/yolov5/runs/train/exp2/weights" />
+      <recent name="$PROJECT_DIR$/runs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.detect_video">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/yolov5/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect_video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.detect" />
+      <item itemvalue="Python.detect_video" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.detect_video" />
+        <item itemvalue="Python.detect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bc7d633-c8a2-42ab-af9e-b855f2dde575" name="Changes" comment="" />
+      <created>1648807911339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648807911339</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
